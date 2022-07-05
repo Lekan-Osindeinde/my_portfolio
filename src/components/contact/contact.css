@@ -1,5 +1,6 @@
 .contact {
   display: flex;
+  background-color: lightblue;
 }
 .detail {
   display: flex;
@@ -36,5 +37,5 @@
 }
 
 .xing:hover {
-  background: gray;
+  background: white;
 }

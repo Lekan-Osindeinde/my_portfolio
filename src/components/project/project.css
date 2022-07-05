@@ -1,8 +1,13 @@
+.s1 {
+  background-color: gray;
+}
 .project-header {
   padding: 50px;
   font-size: 40px;
   display: flex;
   justify-content: center;
+  color: white;
+  font-weight: 800;
 }
 
 .post-wrapper {
@@ -78,9 +83,7 @@ img.thumbnail {
   color: #4b5156;
   font-size: 15px;
 }
-.s1 {
-  background-color: lightgray;
-}
+
 @media screen and (max-width: 800px) {
   .intro-wrapper {
     grid-template-columns: 1fr;

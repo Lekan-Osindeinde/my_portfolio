@@ -5,7 +5,7 @@ import "./navbar.css";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div className="title">
+      <div className="titleContact">
         <p>
           <PhoneIcon />
           +491786515434

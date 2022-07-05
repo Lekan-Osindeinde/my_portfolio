@@ -32,7 +32,7 @@ const About = () => {
           JavaScript
         </p>
         <br />
-        <a href={resume} target="_blank" download>
+        <a href={resume} target="_blank" rel="noreferrer" download>
           Download Resume
         </a>
         <div id="skills">

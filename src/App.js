@@ -4,9 +4,9 @@ import Header from "./components/header/Header";
 import Navbar from "./components/navbar/Navbar";
 import Project from "./components/project/Project";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <Navbar />
       <Header />
       <About />
@@ -14,6 +14,6 @@ function App() {
       <Contact />
     </div>
   );
-}
+};
 
 export default App;

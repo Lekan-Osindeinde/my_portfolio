@@ -27,18 +27,27 @@ const Contact = () => {
         <h1>Check me out on</h1>
 
         <p>
-          <a target="_blank" href="https://github.com/Lekan-Osindeinde">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://github.com/Lekan-Osindeinde"
+          >
             <GitHubIcon />
           </a>
         </p>
         <p>
-          <a target="_blank" href="https://twitter.com/osindeindeLekan">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://twitter.com/osindeindeLekan"
+          >
             <TwitterIcon />
           </a>
         </p>
         <p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://www.linkedin.com/in/lekan-osindeinde-0a38a8141/"
           >
             <LinkedInIcon />
@@ -47,9 +56,10 @@ const Contact = () => {
         <p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://www.xing.com/profile/LekanOlawale_Osindeinde/cv"
           >
-            <img src={xing} className="xing" />
+            <img src={xing} className="xing" alt="xing" />
           </a>
         </p>
       </div>

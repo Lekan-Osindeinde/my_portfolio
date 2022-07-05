@@ -1,14 +1,15 @@
 .navbar {
   display: flex;
   height: 60px;
-  background-color: black;
+  background-color: lightblue;
   color: white;
   justify-content: space-between;
   padding: 0 50px;
   position: sticky;
   top: 0;
+  z-index: 10;
 }
-.title {
+.titleContact {
   display: flex;
   align-items: center;
   font-size: 20px;

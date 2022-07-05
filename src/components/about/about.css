@@ -31,9 +31,9 @@ hr {
   display: flex;
   justify-content: space-between;
   width: 50%;
-  background-color: black;
+  background-color: gray;
   color: white;
-  padding: 0px 20px 0px 0px;
+  padding: 5px 20px 0px 0px;
   margin-top: 20px;
 }
 #skills ul {
