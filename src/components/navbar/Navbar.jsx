@@ -1,19 +1,11 @@
-import EmailIcon from "@mui/icons-material/Email";
-import PhoneIcon from "@mui/icons-material/Phone";
+import { ReactComponent as Logo } from "../logo/logo.svg";
 import "./navbar.css";
 
 const Navbar = () => {
   return (
     <div className="navbar">
       <div className="titleContact">
-        <p>
-          <PhoneIcon />
-          +491786515434
-        </p>
-        <p>
-          <EmailIcon />
-          osindeindeolawale01@gmail
-        </p>
+        <Logo />
       </div>
       <div className="list">
         <ul className="listItem">
