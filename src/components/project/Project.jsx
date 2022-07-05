@@ -161,7 +161,7 @@ const Project = () => {
             <div>
               <div className="post">
                 <a
-                  href="ux. https://redux-movie01.netlify.app"
+                  href="https://redux-movie01.netlify.app"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -171,7 +171,7 @@ const Project = () => {
                   <h6 className="post-title">React-Redux App</h6>
                   <p className="post-intro">React redux movies search engine</p>
                   <a
-                    href="ux. https://redux-movie01.netlify.app"
+                    href="https://redux-movie01.netlify.app"
                     target="_blank"
                     rel="noreferrer"
                   >
