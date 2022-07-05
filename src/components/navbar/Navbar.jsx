@@ -17,7 +17,7 @@ const Navbar = () => {
       </div>
       <div className="list">
         <ul className="listItem">
-          <a href="#aboutme" rel="noreferrer" text-decoration="none">
+          <a href="#aboutme">
             <li className="li">About me</li>
           </a>
           <a href="#myproject">

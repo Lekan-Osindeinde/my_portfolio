@@ -18,7 +18,11 @@ const Project = () => {
           <div className="post-wrapper">
             <div>
               <div className="post">
-                <a href="https://lekwalbooking.netlify.app" target="_blank">
+                <a
+                  href="https://lekwalbooking.netlify.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <img class="thumbnail" src={booking} alt="" />
                 </a>
                 <div className="post-preview">
@@ -27,7 +31,11 @@ const Project = () => {
                     React hotel booking reservation app User Interface design
                     with HTML, CSS, and React Calendar
                   </p>
-                  <a href="https://lekwalbooking.netlify.app" target="_blank">
+                  <a
+                    href="https://lekwalbooking.netlify.app"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <h6 className="view">View app</h6>
                   </a>
                 </div>
@@ -38,6 +46,7 @@ const Project = () => {
                 <a
                   href="https://ecommerceapplekwal.netlify.app"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={ecommerce} alt="" />
                 </a>
@@ -49,6 +58,7 @@ const Project = () => {
                   <a
                     href="https://ecommerceapplekwal.netlify.app"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -57,7 +67,11 @@ const Project = () => {
             </div>
             <div>
               <div className="post">
-                <a href="https://tindopapp.netlify.app" target="_blank">
+                <a
+                  href="https://tindopapp.netlify.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <img class="thumbnail" src={tindog} alt="" />
                 </a>
                 <div className="post-preview">
@@ -65,7 +79,11 @@ const Project = () => {
                   <p className="post-intro">
                     Responsive Tindog application with HTML, CSS, Bootstrap.
                   </p>
-                  <a href="https://tindopapp.netlify.app" target="_blank">
+                  <a
+                    href="https://tindopapp.netlify.app"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <h6 className="view">View app</h6>
                   </a>
                 </div>
@@ -76,6 +94,7 @@ const Project = () => {
                 <a
                   href="https://lekan-osindeinde.github.io/image-gallery"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={gallery} alt="" />
                 </a>
@@ -87,6 +106,7 @@ const Project = () => {
                   <a
                     href="https://lekan-osindeinde.github.io/image-gallery"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -99,6 +119,7 @@ const Project = () => {
                 <a
                   href="https://lekan-osindeinde.github.io/keeper-app-part-1/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={keeper} alt="" />
                 </a>
@@ -108,6 +129,7 @@ const Project = () => {
                   <a
                     href="https://lekan-osindeinde.github.io/keeper-app-part-1/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -119,6 +141,7 @@ const Project = () => {
                 <a
                   href="https://lekan-osindeinde.github.io/lekwal-admin/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={admin} alt="" />
                 </a>
@@ -128,6 +151,7 @@ const Project = () => {
                   <a
                     href="https://lekan-osindeinde.github.io/lekwal-admin/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -137,8 +161,9 @@ const Project = () => {
             <div>
               <div className="post">
                 <a
-                  href="https://lekan-osindeinde.github.io/food-website/"
+                  href="ux. https://redux-movie01.netlify.app"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={redux} alt="" />
                 </a>
@@ -146,8 +171,9 @@ const Project = () => {
                   <h6 className="post-title">React-Redux App</h6>
                   <p className="post-intro">React redux movies search engine</p>
                   <a
-                    href="https://lekan-osindeinde.github.io/food-website/"
+                    href="ux. https://redux-movie01.netlify.app"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -160,6 +186,7 @@ const Project = () => {
                 <a
                   href="https://lekan-osindeinde.github.io/food-website/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={food} alt="" />
                 </a>
@@ -171,6 +198,7 @@ const Project = () => {
                   <a
                     href="https://lekan-osindeinde.github.io/food-website/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
@@ -182,6 +210,7 @@ const Project = () => {
                 <a
                   href="https://lekan-osindeinde.github.io/todolist/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img class="thumbnail" src={todo} alt="" />
                 </a>
@@ -191,6 +220,7 @@ const Project = () => {
                   <a
                     href="https://lekan-osindeinde.github.io/todolist/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <h6 className="view">View app</h6>
                   </a>
