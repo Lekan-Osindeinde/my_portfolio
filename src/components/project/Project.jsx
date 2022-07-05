@@ -99,9 +99,9 @@ const Project = () => {
                   <img class="thumbnail" src={gallery} alt="" />
                 </a>
                 <div className="post-preview">
-                  <h6 className="post-title">Tindog Application</h6>
+                  <h6 className="post-title">Image Gallery</h6>
                   <p className="post-intro">
-                    Tindog application with HTML, CSS, Bootstrap.
+                    Image gallery with HTML, CSS, API, Bootstrap.
                   </p>
                   <a
                     href="https://lekan-osindeinde.github.io/image-gallery"
