@@ -1,0 +1,42 @@
+.about {
+  display: flex;
+}
+.h1title {
+  margin-left: 15px;
+  font-size: 50px;
+}
+.left {
+  flex: 1;
+  padding: 0px 50px;
+}
+.profile_pic {
+  width: 450px;
+  height: 450px;
+}
+.right {
+  flex: 2;
+  padding: 20px 50px 0px 0px;
+}
+hr {
+  height: 2px;
+  background-color: lightgray;
+}
+.subtit {
+  font-size: 24px;
+}
+.paraText {
+  font-size: 22px;
+}
+#skills {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  background-color: black;
+  color: white;
+  padding: 0px 20px 0px 0px;
+  margin-top: 20px;
+}
+#skills ul {
+  margin-top: 10px;
+  list-style: none;
+}

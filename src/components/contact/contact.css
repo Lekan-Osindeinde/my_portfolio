@@ -1,0 +1,40 @@
+.contact {
+  display: flex;
+}
+.detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  margin-left: 50px;
+  flex: 1;
+}
+.titlepar {
+  font-size: 40px;
+  margin-left: 50px;
+}
+
+.iconItem {
+  flex: 1;
+  display: flex;
+  margin-left: 20px;
+}
+
+.socialIcon {
+  display: flex;
+  padding: 0px 0px 0px 50px;
+}
+.icons {
+  margin-left: 20px;
+}
+.social-links {
+  flex: 1;
+}
+.social-links p {
+  display: inline-block;
+  padding: 10px 8px;
+}
+
+.xing:hover {
+  background: gray;
+}

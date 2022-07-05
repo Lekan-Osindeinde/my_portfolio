@@ -1,0 +1,12 @@
+.title {
+  display: flex;
+  background-color: black;
+  color: white;
+  padding: 0 50px;
+}
+.tit {
+  font-size: 100px;
+  display: flex;
+  line-height: 1.5;
+  align-items: center;
+}
